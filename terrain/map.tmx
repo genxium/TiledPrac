@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="35" height="32" tilewidth="128" tileheight="128" infinite="0" nextlayerid="8" nextobjectid="41">
+ <tileset firstgid="1" source="terrain_edges.tsx"/>
+ <tileset firstgid="21" source="terrain_corner.tsx"/>
+ <layer id="1" name="Pipes" width="35" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0sEKgCAQhOGVwijL939cd/EWYp6my//BXETYwdUMAPB2/jAzea7B+eM5PLuox+a5P+5kRZHFOaousYfZDuLdqqhLKNb/xSjKHgAAAFjTAHY1ALM=
+  </data>
+ </layer>
+ <layer id="7" name="Ground" width="35" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztkkEKgDAMBPsRRQ+2eqn6/8+ZQISw1JMkpx2YQyk0Q2gphBBCCCEkkmriuQ7uohvURVw/OjJadH43T3GDtg59UejbTZzE2Txch7Zd0BfZsrv53mYdN7Rk/5u3EXeV1TLqyZxNCCF/eQBM9gsH
+  </data>
+ </layer>
+</map>

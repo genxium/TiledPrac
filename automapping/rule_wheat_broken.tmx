@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="16" height="16" tilewidth="16" tileheight="16" infinite="0" nextlayerid="6" nextobjectid="1">
+ <properties>
+  <property name="AutomappingRadius" value="3"/>
+  <property name="DeleteTiles" value="yes"/>
+ </properties>
+ <tileset firstgid="1" source="forest16.tsx"/>
+ <tileset firstgid="1025" source=":/automap-tiles.tsx"/>
+ <tileset firstgid="1030" source="colorpad-bkg.tsx"/>
+ <layer id="2" name="input1_Ground" width="16" height="16" opacity="0.33">
+  <data encoding="base64" compression="zlib">
+   eJy1klEKwCAMQ/0wu/+Rx9gK4VGdwzXQj2jTJqJ6a3rqgsCPfpffx1nG2b+rpx/yP5DNcy54Cp+hG2XkDIdnrsDb+2iyf5TX4ZmZn/3ZPO5b8VuF7H990c7+b7V+1/8JX/QDdw==
+  </data>
+ </layer>
+ <layer id="3" name="output1_NewGround" width="16" height="16" opacity="0.43">
+  <data encoding="base64" compression="zlib">
+   eJxjYMAPDBkZGIwYUcUMGCHiMCAAZAtC+SBaCEkuEMgOQtMfwAgRx2YeNvsGA/iAxr+IxBZA8zMIXCBg3kcGRJgNFLiERw7d/QZobgW5/ROUHYAljg3R+OjhN5wAvvRPDEDOD9jyCy0BAGzqDQY=
+  </data>
+ </layer>
+</map>

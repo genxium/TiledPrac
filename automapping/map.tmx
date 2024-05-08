@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="31" height="31" tilewidth="16" tileheight="16" infinite="0" nextlayerid="118" nextobjectid="1">
+ <properties>
+  <property name="MatchInOrder" value="true"/>
+ </properties>
+ <tileset firstgid="1" source="forest16.tsx"/>
+ <tileset firstgid="1025" source="colorpad-bkg.tsx"/>
+ <layer id="1" name="Ground" width="31" height="31">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DgACMLBA92u2FqqeXWoWI3tQGyX7Dh4Wo3KYCWbsHmV3qFy2CzG58bqAkGQ36jhx2jeXpkAfQwHu7xPZjS2mjaHgWjgDoAAHH1AfA=
+  </data>
+ </layer>
+ <layer id="53" name="ColdGround" width="31" height="31">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwACYWCB7sdsPUDoR7B4Pdo2DoA1LikdrxPmr34LEbvTyhRdkyUu0eBaNgFIyCUTB4AQDSUwEt
+  </data>
+ </layer>
+ <layer id="116" name="NewColdGround" width="31" height="31">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAMCHAQ8EAAE=
+  </data>
+ </layer>
+ <layer id="117" name="NewGround" width="31" height="31">
+  <data encoding="base64" compression="zlib">
+   eJztlWEKgCAMhecNtJNUJ6lOXp2kOkGTkEQkCjZHsgcDf4hvbN8cgEolJ2sAGiPj3aJv/9Lb5+kIc/3iPeC9EWMS8KaW997hqmUa3ByEOuaCqrYUmhnfzs2bjXpwAF9PctyFnqx47swdC9D25In5lAtqFqTnjds75sclLHF7/2Wma1T6l5TY5TZiK94jEqz5P0uKta2snUpVrU47IxsQ
+  </data>
+ </layer>
+</map>

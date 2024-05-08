@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.10.2" orientation="orthogonal" renderorder="right-down" width="32" height="32" tilewidth="16" tileheight="16" infinite="0" nextlayerid="16" nextobjectid="1">
+ <properties>
+  <property name="AutomappingRadius" value="3"/>
+  <property name="DeleteTiles" value="yes"/>
+ </properties>
+ <tileset firstgid="1" source="forest16.tsx"/>
+ <tileset firstgid="1025" source=":/automap-tiles.tsx"/>
+ <tileset firstgid="1030" source="colorpad-bkg.tsx"/>
+ <tileset firstgid="1038" source="another_forest16.tsx"/>
+ <layer id="2" name="input1_Ground" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlFEKgDAMQ/1wvf+RBXVQRrJ2iIIl76dTw9K1nbZvJ+2O5p7NvWtgPWrQOosNecx0zBPl9QdYrfs3H9/MYfSZ5SViVu4E63M0G8iD3U/WP6aL9s94ZOb36b+jCtEMRH1opDdIj7yjPmbmMJMX856dr+t8rASq51fnRH4VayyEEEKIiwMFrASn
+  </data>
+ </layer>
+ <layer id="6" name="output1_NewGround" width="32" height="32" opacity="0.48">
+  <data encoding="base64" compression="zlib">
+   eJztlO0RQDAMhmsDOgkmKRMZEZNgAo2Lu4iPtn4UJ8+f0KZ9c5e3KRK1oSL/OX6XZK1k+WtOR85C7FUYWeLOAUaSC3Fy1PUVDNZbv6zuFOvRL6vrC9B3QN9HKNbbDcYdhmlw//j6SqMG7zOs2ze37I0H+8DRnAghYxq+s+BPuPp8dQ5855N/5gF6lzrRhjkBfbs7J3x89ieGyHptZD1BEARBEJ5jBuZPHY4=
+  </data>
+ </layer>
+</map>
